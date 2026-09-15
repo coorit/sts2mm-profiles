@@ -5,40 +5,6 @@
   "created_by": "coorit",
   "mods": [
     {
-      "mod_version_id": "a151f286-7e30-4d4c-9542-e8c15efe8031",
-      "name": "Acheron",
-      "version": "v0.4.11",
-      "source": null,
-      "hash": "fca85a3c2f05d329981ae89ff9eb6e2c645ecc5c0aedfb2837be0b544066a9b5",
-      "files": [
-        "Acheron\\Acheron.dll",
-        "Acheron\\Acheron.json",
-        "Acheron\\Acheron.pck"
-      ],
-      "folder_name": "Acheron",
-      "mod_id": "Acheron",
-      "enabled": true,
-      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.11_4bf687e4.zip",
-      "bundle_sha256": "4bf687e4ec14ba28ef54ea8652f7a17ed3201c90b8b4a7cd823991b3021c9bb0"
-    },
-    {
-      "mod_version_id": "c4b93613-68b2-45b6-bdd2-f51a454aa850",
-      "name": "BetterSaves",
-      "version": "0.5.0",
-      "source": null,
-      "hash": "f9d9ad89078a5c60c25a4ff9270615ecf6f56aaae6a8c93e869dd7df114eb386",
-      "files": [
-        "BetterSaves\\BetterSaves\\BetterSaves.dll",
-        "BetterSaves\\BetterSaves\\BetterSaves.json",
-        "BetterSaves\\BetterSaves\\BetterSaves.pck"
-      ],
-      "folder_name": "BetterSaves",
-      "mod_id": "BetterSaves",
-      "enabled": true,
-      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/BetterSaves_v0.5.0_f0481a02.zip",
-      "bundle_sha256": "f0481a028e984063794e7bedfe2c2ec9abbd2a2d9250179826a892ecb8defe32"
-    },
-    {
       "mod_version_id": "7de162ec-06ed-45f9-8324-9579e547afc3",
       "name": "BetterSpire2",
       "version": "v1.83.8",
@@ -121,23 +87,6 @@
       "bundle_sha256": "7feca8119486d19f597ee10b4488e3628901b3708fff392566d60285b089055a"
     },
     {
-      "mod_version_id": "4cf5f0d9-63cc-4c2d-9ffe-110b990c7307",
-      "name": "CZN Style UI",
-      "version": "v2.0.1-beta",
-      "source": null,
-      "hash": "0a06a65a360fb3d1a7cd4a9ad79a670d9e507c2a70d0a5e36b66499a3ede78d2",
-      "files": [
-        "CznStyleUI\\CznStyleUI.dll",
-        "CznStyleUI\\CznStyleUI.json",
-        "CznStyleUI\\CznStyleUI.pck"
-      ],
-      "folder_name": "CznStyleUI",
-      "mod_id": "CznStyleUI",
-      "enabled": true,
-      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/CZN_Style_UI_v2.0.1-beta_ed4e0d21.zip",
-      "bundle_sha256": "ed4e0d21fc6e858a4db07cb914c9146c02a32e1af999d1fc0579836d23cfef25"
-    },
-    {
       "mod_version_id": "512a7877-4bf7-4519-b060-80938e6fb9f4",
       "name": "CznTipheraCharacter",
       "version": "v1.0.4-beta",
@@ -153,23 +102,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/CznTipheraCharacter_v1.0.4-beta_1f183747.zip",
       "bundle_sha256": "1f183747580b97819bf1b5c8e49da2ea3ea825a6da1c8e7e300359ea4368e664"
-    },
-    {
-      "mod_version_id": "a954c5b5-c52e-41dd-8141-6ee363607bd5",
-      "name": "Evanescia",
-      "version": "v0.2.6",
-      "source": null,
-      "hash": "50d8cb7c2e1dbb059296e46cae26013e4e5ad8a3cfec12c5bd880d01e8e72a6a",
-      "files": [
-        "Evanescia\\Evanescia.dll",
-        "Evanescia\\Evanescia.json",
-        "Evanescia\\Evanescia.pck"
-      ],
-      "folder_name": "Evanescia",
-      "mod_id": "Evanescia",
-      "enabled": true,
-      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Evanescia_v0.2.6_5e0a48a1.zip",
-      "bundle_sha256": "5e0a48a164c6dc013d999bfd6159306e624dfd958e019944709feec8f9623b88"
     },
     {
       "mod_version_id": "c61e70db-81fc-4a4f-bbcd-5489f63b6089",
@@ -204,23 +136,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Heidemarie_Regent_Skin_v0.7.4-beta_f30de1e4.zip",
       "bundle_sha256": "f30de1e489c45165b19db067a1884a38a7353cc4706a9e6329b5d18fc1c9d745"
-    },
-    {
-      "mod_version_id": "2ac2c8b7-78b4-4d84-80e2-cc448f3ac60c",
-      "name": "Kafka",
-      "version": "v0.12.10",
-      "source": null,
-      "hash": "ffbbd1ce0c3ce8f0750785f86b4deeba80cc95aa20a13e700d727197a2b76952",
-      "files": [
-        "Kafka\\Kafka.dll",
-        "Kafka\\Kafka.json",
-        "Kafka\\Kafka.pck"
-      ],
-      "folder_name": "Kafka",
-      "mod_id": "Kafka",
-      "enabled": true,
-      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.10_84a3f32e.zip",
-      "bundle_sha256": "84a3f32e123b506b74de87740d362ce02e6ed6f93d60fb71327f2c3baac402c4"
     },
     {
       "mod_version_id": "da92a3e7-b7a3-4074-846c-f73ca3f458df",
@@ -360,6 +275,6 @@
     }
   ],
   "created_at": "2026-09-15T04:22:31.945366Z",
-  "updated_at": "2026-09-15T04:22:32.458619400Z",
+  "updated_at": "2026-09-15T07:52:46.546865700Z",
   "public": false
 }
