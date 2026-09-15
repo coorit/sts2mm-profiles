@@ -87,23 +87,6 @@
       "bundle_sha256": "7feca8119486d19f597ee10b4488e3628901b3708fff392566d60285b089055a"
     },
     {
-      "mod_version_id": "512a7877-4bf7-4519-b060-80938e6fb9f4",
-      "name": "CznTipheraCharacter",
-      "version": "v1.0.4-beta",
-      "source": null,
-      "hash": "d30c958ba7a78ecab68825c86dee88771371ce139c027f4efb0d9611bf4b2c53",
-      "files": [
-        "CznTipheraCharacter\\CznTipheraCharacter.dll",
-        "CznTipheraCharacter\\CznTipheraCharacter.json",
-        "CznTipheraCharacter\\CznTipheraCharacter.pck"
-      ],
-      "folder_name": "CznTipheraCharacter",
-      "mod_id": "CznTipheraCharacter",
-      "enabled": true,
-      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/CznTipheraCharacter_v1.0.4-beta_1f183747.zip",
-      "bundle_sha256": "1f183747580b97819bf1b5c8e49da2ea3ea825a6da1c8e7e300359ea4368e664"
-    },
-    {
       "mod_version_id": "c61e70db-81fc-4a4f-bbcd-5489f63b6089",
       "name": "Heidemarie Regent Card Art",
       "version": "v0.2.0",
@@ -257,11 +240,11 @@
       "bundle_sha256": "9409d65201d47deffbf12e8e11d31be017bb408b476e29075073429a1fb13a5e"
     },
     {
-      "mod_version_id": "99e32eb2-e79d-4659-8dda-0d9447eae0c3",
+      "mod_version_id": "0214ecb6-c9e8-47b5-8712-a6d2ceec0f8d",
       "name": "Watcher",
-      "version": "0.9.24",
-      "source": null,
-      "hash": "0b7922ea2a1406201acfe9a2bf8e13e60cf7264606e57012a2731dd7f789de24",
+      "version": "v1.4.3",
+      "source": "nexus:slaythespire2/mods/46",
+      "hash": "5d9d2852d229e062aea00b82fcc704042a9d972086b748e3a4e45b76b2894942",
       "files": [
         "Watcher\\Watcher.dll",
         "Watcher\\Watcher.json",
@@ -270,11 +253,44 @@
       "folder_name": "Watcher",
       "mod_id": "Watcher",
       "enabled": true,
-      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Watcher_v0.9.24_f7f8c479.zip",
-      "bundle_sha256": "f7f8c479b1ac00a59edefd3e8d840bcfee0a92f064317755a8f45494928521ce"
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3_7e8e91a9.zip",
+      "bundle_sha256": "7e8e91a9695471af600765b533182b244ad0374adaeedb9422b5308d12bc53c2"
+    },
+    {
+      "mod_version_id": "108e69d1-8de4-49d9-a33b-133332ecef1f",
+      "name": "CznTipheraCharacter",
+      "version": "v1.0.5-beta",
+      "source": null,
+      "hash": "2c66266feaa1e9e9e33e3222bd46d72a8d1acfa804018ce47b4456923d5d839f",
+      "files": [
+        "CznTipheraCharacter\\CznTipheraCharacter.dll",
+        "CznTipheraCharacter\\CznTipheraCharacter.json",
+        "CznTipheraCharacter\\CznTipheraCharacter.pck"
+      ],
+      "folder_name": "CznTipheraCharacter",
+      "mod_id": "CznTipheraCharacter",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/CznTipheraCharacter_v1.0.5-beta_6d3767c4.zip",
+      "bundle_sha256": "6d3767c46e44b11b142c6c4a0f548aeb02c91800e519b756260f9a5e5b20f185"
+    },
+    {
+      "mod_version_id": "2170da3f-f8d2-4464-a523-f8e9561ff56a",
+      "name": "Relic Picker",
+      "version": "v0.1.0",
+      "source": null,
+      "hash": "03a8b6075ac5322468db614f09c5b57cda669d6bea78aaf45f1659035311d13a",
+      "files": [
+        "RelicPicker\\RelicPicker.dll",
+        "RelicPicker\\RelicPicker.json"
+      ],
+      "folder_name": "RelicPicker",
+      "mod_id": "RelicPicker",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Relic_Picker_v0.1.0_d0769265.zip",
+      "bundle_sha256": "d0769265b58871fec429b702574403e2f179ac8bcd0df39a94ab949fcb6b1e75"
     }
   ],
   "created_at": "2026-09-15T04:22:31.945366Z",
-  "updated_at": "2026-09-15T22:44:56.099515Z",
+  "updated_at": "2026-09-15T22:55:09.420553900Z",
   "public": false
 }
