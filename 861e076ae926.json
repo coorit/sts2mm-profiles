@@ -240,23 +240,6 @@
       "bundle_sha256": "9409d65201d47deffbf12e8e11d31be017bb408b476e29075073429a1fb13a5e"
     },
     {
-      "mod_version_id": "0214ecb6-c9e8-47b5-8712-a6d2ceec0f8d",
-      "name": "Watcher",
-      "version": "v1.4.3",
-      "source": "nexus:slaythespire2/mods/46",
-      "hash": "5d9d2852d229e062aea00b82fcc704042a9d972086b748e3a4e45b76b2894942",
-      "files": [
-        "Watcher\\Watcher.dll",
-        "Watcher\\Watcher.json",
-        "Watcher\\Watcher.pck"
-      ],
-      "folder_name": "Watcher",
-      "mod_id": "Watcher",
-      "enabled": true,
-      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3_7e8e91a9.zip",
-      "bundle_sha256": "7e8e91a9695471af600765b533182b244ad0374adaeedb9422b5308d12bc53c2"
-    },
-    {
       "mod_version_id": "108e69d1-8de4-49d9-a33b-133332ecef1f",
       "name": "CznTipheraCharacter",
       "version": "v1.0.5-beta",
@@ -288,9 +271,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Relic_Picker_v0.1.0_d0769265.zip",
       "bundle_sha256": "d0769265b58871fec429b702574403e2f179ac8bcd0df39a94ab949fcb6b1e75"
+    },
+    {
+      "mod_version_id": "e9ff31b4-3bbd-46e0-b683-c0b2ad4d693c",
+      "name": "Watcher",
+      "version": "0.9.24",
+      "source": "nexus:slaythespire2/mods/46",
+      "hash": "0b7922ea2a1406201acfe9a2bf8e13e60cf7264606e57012a2731dd7f789de24",
+      "files": [
+        "Watcher\\Watcher.dll",
+        "Watcher\\Watcher.json",
+        "Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Watcher_v0.9.24_f7f8c479.zip",
+      "bundle_sha256": "f7f8c479b1ac00a59edefd3e8d840bcfee0a92f064317755a8f45494928521ce"
     }
   ],
   "created_at": "2026-09-15T04:22:31.945366Z",
-  "updated_at": "2026-09-15T22:55:09.420553900Z",
+  "updated_at": "2026-09-15T23:02:06.698678Z",
   "public": false
 }
