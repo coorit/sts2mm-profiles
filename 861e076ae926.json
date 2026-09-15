@@ -1,0 +1,365 @@
+{
+  "id": "7b3ede87-0d17-4914-80d9-ad711e7e539b",
+  "name": "rat",
+  "game_version": "0.111.0",
+  "created_by": "coorit",
+  "mods": [
+    {
+      "mod_version_id": "a151f286-7e30-4d4c-9542-e8c15efe8031",
+      "name": "Acheron",
+      "version": "v0.4.11",
+      "source": null,
+      "hash": "fca85a3c2f05d329981ae89ff9eb6e2c645ecc5c0aedfb2837be0b544066a9b5",
+      "files": [
+        "Acheron\\Acheron.dll",
+        "Acheron\\Acheron.json",
+        "Acheron\\Acheron.pck"
+      ],
+      "folder_name": "Acheron",
+      "mod_id": "Acheron",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.11_4bf687e4.zip",
+      "bundle_sha256": "4bf687e4ec14ba28ef54ea8652f7a17ed3201c90b8b4a7cd823991b3021c9bb0"
+    },
+    {
+      "mod_version_id": "c4b93613-68b2-45b6-bdd2-f51a454aa850",
+      "name": "BetterSaves",
+      "version": "0.5.0",
+      "source": null,
+      "hash": "f9d9ad89078a5c60c25a4ff9270615ecf6f56aaae6a8c93e869dd7df114eb386",
+      "files": [
+        "BetterSaves\\BetterSaves\\BetterSaves.dll",
+        "BetterSaves\\BetterSaves\\BetterSaves.json",
+        "BetterSaves\\BetterSaves\\BetterSaves.pck"
+      ],
+      "folder_name": "BetterSaves",
+      "mod_id": "BetterSaves",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/BetterSaves_v0.5.0_f0481a02.zip",
+      "bundle_sha256": "f0481a028e984063794e7bedfe2c2ec9abbd2a2d9250179826a892ecb8defe32"
+    },
+    {
+      "mod_version_id": "7de162ec-06ed-45f9-8324-9579e547afc3",
+      "name": "BetterSpire2",
+      "version": "v1.83.8",
+      "source": null,
+      "hash": "cd785b008a28cdc37d335ba933a0cc8acc7842a05496da94295855106a3eab75",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.8_593e31cd.zip",
+      "bundle_sha256": "593e31cddd367fc6b952bdba4c9951ae69041c1bb289f8d1433f5228c25fcf71"
+    },
+    {
+      "mod_version_id": "254a4d49-333b-4db8-a229-4b71b02e962f",
+      "name": "Chizuru Ironclad Card Art",
+      "version": "v0.1.1",
+      "source": "nexus:slaythespire2/mods/1248",
+      "hash": "4b1bf9b14454b4b28a6c17ace0d5cf2f95f692625b989e43051d0099e5ef72a3",
+      "files": [
+        "ChizuruIroncladCard\\ChizuruIroncladCard.dll",
+        "ChizuruIroncladCard\\ChizuruIroncladCard.json",
+        "ChizuruIroncladCard\\ChizuruIroncladCard.pck"
+      ],
+      "folder_name": "ChizuruIroncladCard",
+      "mod_id": "ChizuruIroncladCard",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Chizuru_Ironclad_Card_Art_v0.1.1_9e45230c.zip",
+      "bundle_sha256": "9e45230c05e57ae5a6dcbd1dc296b0861ead6f93e6203d0ba67cf185cc8f8267"
+    },
+    {
+      "mod_version_id": "434ad2ad-19d7-443c-89b0-ed58f495584c",
+      "name": "Chizuru Ironclad Skin",
+      "version": "v0.11.3-beta",
+      "source": "nexus:slaythespire2/mods/914",
+      "hash": "b6e436ed6e00937b1a1953b99abac4ec2435d24441e497f9377e5156872ec36f",
+      "files": [
+        "ChizuruIroncladSkin\\ChizuruIroncladSkin.dll",
+        "ChizuruIroncladSkin\\ChizuruIroncladSkin.json",
+        "ChizuruIroncladSkin\\ChizuruIroncladSkin.pck"
+      ],
+      "folder_name": "ChizuruIroncladSkin",
+      "mod_id": "ChizuruIroncladSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Chizuru_Ironclad_Skin_v0.11.3-beta_b4d14cca.zip",
+      "bundle_sha256": "b4d14cca1ca27d19042d890041074ffe09eda3bba390bc7a5e6335473b4abf97"
+    },
+    {
+      "mod_version_id": "cd463b05-dbac-440c-bd2b-7d96f4774ec5",
+      "name": "CZN Main Menu",
+      "version": "v0.2.1-beta",
+      "source": null,
+      "hash": "879ce85b9209c3d979e292540b860b4751c065924583aa9d06dc3d7fab1bd318",
+      "files": [
+        "CznMainMenu\\CznMainMenu.dll",
+        "CznMainMenu\\CznMainMenu.json",
+        "CznMainMenu\\CznMainMenu.pck"
+      ],
+      "folder_name": "CznMainMenu",
+      "mod_id": "CznMainMenu",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/CZN_Main_Menu_v0.2.1-beta_7feca811.zip",
+      "bundle_sha256": "7feca8119486d19f597ee10b4488e3628901b3708fff392566d60285b089055a"
+    },
+    {
+      "mod_version_id": "4cf5f0d9-63cc-4c2d-9ffe-110b990c7307",
+      "name": "CZN Style UI",
+      "version": "v2.0.1-beta",
+      "source": null,
+      "hash": "0a06a65a360fb3d1a7cd4a9ad79a670d9e507c2a70d0a5e36b66499a3ede78d2",
+      "files": [
+        "CznStyleUI\\CznStyleUI.dll",
+        "CznStyleUI\\CznStyleUI.json",
+        "CznStyleUI\\CznStyleUI.pck"
+      ],
+      "folder_name": "CznStyleUI",
+      "mod_id": "CznStyleUI",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/CZN_Style_UI_v2.0.1-beta_ed4e0d21.zip",
+      "bundle_sha256": "ed4e0d21fc6e858a4db07cb914c9146c02a32e1af999d1fc0579836d23cfef25"
+    },
+    {
+      "mod_version_id": "512a7877-4bf7-4519-b060-80938e6fb9f4",
+      "name": "CznTipheraCharacter",
+      "version": "v1.0.4-beta",
+      "source": null,
+      "hash": "d30c958ba7a78ecab68825c86dee88771371ce139c027f4efb0d9611bf4b2c53",
+      "files": [
+        "CznTipheraCharacter\\CznTipheraCharacter.dll",
+        "CznTipheraCharacter\\CznTipheraCharacter.json",
+        "CznTipheraCharacter\\CznTipheraCharacter.pck"
+      ],
+      "folder_name": "CznTipheraCharacter",
+      "mod_id": "CznTipheraCharacter",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/CznTipheraCharacter_v1.0.4-beta_1f183747.zip",
+      "bundle_sha256": "1f183747580b97819bf1b5c8e49da2ea3ea825a6da1c8e7e300359ea4368e664"
+    },
+    {
+      "mod_version_id": "a954c5b5-c52e-41dd-8141-6ee363607bd5",
+      "name": "Evanescia",
+      "version": "v0.2.6",
+      "source": null,
+      "hash": "50d8cb7c2e1dbb059296e46cae26013e4e5ad8a3cfec12c5bd880d01e8e72a6a",
+      "files": [
+        "Evanescia\\Evanescia.dll",
+        "Evanescia\\Evanescia.json",
+        "Evanescia\\Evanescia.pck"
+      ],
+      "folder_name": "Evanescia",
+      "mod_id": "Evanescia",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Evanescia_v0.2.6_5e0a48a1.zip",
+      "bundle_sha256": "5e0a48a164c6dc013d999bfd6159306e624dfd958e019944709feec8f9623b88"
+    },
+    {
+      "mod_version_id": "c61e70db-81fc-4a4f-bbcd-5489f63b6089",
+      "name": "Heidemarie Regent Card Art",
+      "version": "v0.2.0",
+      "source": "nexus:slaythespire2/mods/1312",
+      "hash": "700f7eaa9f7c18432f81b51ebbce53d83515a715a6344e9220707344e66db8b6",
+      "files": [
+        "HeidemarieRegentCard\\HeidemarieRegentCard.dll",
+        "HeidemarieRegentCard\\HeidemarieRegentCard.json",
+        "HeidemarieRegentCard\\HeidemarieRegentCard.pck"
+      ],
+      "folder_name": "HeidemarieRegentCard",
+      "mod_id": "HeidemarieRegentCard",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Heidemarie_Regent_Card_Art_v0.2.0_c634706d.zip",
+      "bundle_sha256": "c634706dd62f6a765d824f9ac0db7103113736e0532b5f1cde59b989162097a4"
+    },
+    {
+      "mod_version_id": "9b569613-e641-4663-b537-013b9281f6b9",
+      "name": "Heidemarie Regent Skin",
+      "version": "v0.7.4-beta",
+      "source": "nexus:slaythespire2/mods/1311",
+      "hash": "1d68cbc8b7adcd4f68d63f497485b80bf39fc005a61e2315b416afd24822d0be",
+      "files": [
+        "HeidemarieRegentSkin\\HeidemarieRegentSkin.dll",
+        "HeidemarieRegentSkin\\HeidemarieRegentSkin.json",
+        "HeidemarieRegentSkin\\HeidemarieRegentSkin.pck"
+      ],
+      "folder_name": "HeidemarieRegentSkin",
+      "mod_id": "HeidemarieRegentSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Heidemarie_Regent_Skin_v0.7.4-beta_f30de1e4.zip",
+      "bundle_sha256": "f30de1e489c45165b19db067a1884a38a7353cc4706a9e6329b5d18fc1c9d745"
+    },
+    {
+      "mod_version_id": "2ac2c8b7-78b4-4d84-80e2-cc448f3ac60c",
+      "name": "Kafka",
+      "version": "v0.12.10",
+      "source": null,
+      "hash": "ffbbd1ce0c3ce8f0750785f86b4deeba80cc95aa20a13e700d727197a2b76952",
+      "files": [
+        "Kafka\\Kafka.dll",
+        "Kafka\\Kafka.json",
+        "Kafka\\Kafka.pck"
+      ],
+      "folder_name": "Kafka",
+      "mod_id": "Kafka",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.10_84a3f32e.zip",
+      "bundle_sha256": "84a3f32e123b506b74de87740d362ce02e6ed6f93d60fb71327f2c3baac402c4"
+    },
+    {
+      "mod_version_id": "da92a3e7-b7a3-4074-846c-f73ca3f458df",
+      "name": "Meirin Watcher Skin",
+      "version": "v0.2.3-beta",
+      "source": null,
+      "hash": "18a008aeacbf8a3e985e789cda8630eb4821620470de456e61257f0ccbb6ef7f",
+      "files": [
+        "MeirinWatcherSkin\\MeirinWatcherSkin.dll",
+        "MeirinWatcherSkin\\MeirinWatcherSkin.json",
+        "MeirinWatcherSkin\\MeirinWatcherSkin.pck"
+      ],
+      "folder_name": "MeirinWatcherSkin",
+      "mod_id": "MeirinWatcherSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Meirin_Watcher_Skin_v0.2.3-beta_2948992f.zip",
+      "bundle_sha256": "2948992f91fd6261b8dafb60c04baf742f0588d170f4b64d13b24a94803e8770"
+    },
+    {
+      "mod_version_id": "88ac6dd7-504a-49aa-a0d4-f26b60cd2a4b",
+      "name": "Narja Necrobinder Card Art",
+      "version": "v0.1.1-beta",
+      "source": null,
+      "hash": "bb6e16d04b4cf5933be3800de57516c607181206f7f874d043d8067f0c751fa6",
+      "files": [
+        "NarjaNecrobinderCard\\NarjaNecrobinderCard.dll",
+        "NarjaNecrobinderCard\\NarjaNecrobinderCard.json",
+        "NarjaNecrobinderCard\\NarjaNecrobinderCard.pck"
+      ],
+      "folder_name": "NarjaNecrobinderCard",
+      "mod_id": "NarjaNecrobinderCard",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Narja_Necrobinder_Card_Art_v0.1.1-beta_b6ee319a.zip",
+      "bundle_sha256": "b6ee319a08d3f501985be1e0fa6fea632f2aac960601d4290067327959e7b29b"
+    },
+    {
+      "mod_version_id": "cf5591c3-409a-4908-87ca-531dba6d6352",
+      "name": "Narja Necrobinder Skin",
+      "version": "v0.3.3-beta",
+      "source": null,
+      "hash": "328a0d730e29c4a003f027de2cef732b44009ef7b40ba5849d3f29f513a3c583",
+      "files": [
+        "NarjaNecrobinderSkin\\NarjaNecrobinderSkin.dll",
+        "NarjaNecrobinderSkin\\NarjaNecrobinderSkin.json",
+        "NarjaNecrobinderSkin\\NarjaNecrobinderSkin.pck"
+      ],
+      "folder_name": "NarjaNecrobinderSkin",
+      "mod_id": "NarjaNecrobinderSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Narja_Necrobinder_Skin_v0.3.3-beta_ba6f3824.zip",
+      "bundle_sha256": "ba6f3824063b9e7895677fd57688bedb8dad740007ed9ad0c3b532c95e212441"
+    },
+    {
+      "mod_version_id": "e3d20dc2-6382-4d46-a69f-6b85a1ef8d6c",
+      "name": "Sereniel Defect Card Art",
+      "version": "v0.1.1",
+      "source": null,
+      "hash": "d74beec6e96eb310e3fec6fe3e9b64a2e5e728441d6964bde83b3975f2fbb540",
+      "files": [
+        "SerenielDefectCard\\SerenielDefectCard.dll",
+        "SerenielDefectCard\\SerenielDefectCard.json",
+        "SerenielDefectCard\\SerenielDefectCard.pck"
+      ],
+      "folder_name": "SerenielDefectCard",
+      "mod_id": "SerenielDefectCard",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Sereniel_Defect_Card_Art_v0.1.1_7f9d98fc.zip",
+      "bundle_sha256": "7f9d98fc09d929632dd82e417e76833b1395337c878724d3b20a32e42814813f"
+    },
+    {
+      "mod_version_id": "b2a73055-0568-42d9-9e41-84159ee61e8d",
+      "name": "Sereniel Defect Skin",
+      "version": "v0.5.3-beta",
+      "source": null,
+      "hash": "df992b10a9f20a8b9c33fe750d95b0dfed7b8d528bc04fa05d224786e5406814",
+      "files": [
+        "SerenielDefectSkin\\SerenielDefectSkin.dll",
+        "SerenielDefectSkin\\SerenielDefectSkin.json",
+        "SerenielDefectSkin\\SerenielDefectSkin.pck"
+      ],
+      "folder_name": "SerenielDefectSkin",
+      "mod_id": "SerenielDefectSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Sereniel_Defect_Skin_v0.5.3-beta_1f0f78a0.zip",
+      "bundle_sha256": "1f0f78a04e1b7213c27e1fcd0fbc8593ca29edb94a80769abcd3fce5dea3dfe9"
+    },
+    {
+      "mod_version_id": "cd01d34c-708d-4c3b-af99-71ca9175a5d6",
+      "name": "Tressa Silent Card Art",
+      "version": "v0.3.1",
+      "source": "nexus:slaythespire2/mods/1123",
+      "hash": "5d00aa32f46b2892f6f769a8aae6f5dc99b93c381fd57103f7cb74dc2674569f",
+      "files": [
+        "TressaSilentCard\\TressaSilentCard.dll",
+        "TressaSilentCard\\TressaSilentCard.json",
+        "TressaSilentCard\\TressaSilentCard.pck"
+      ],
+      "folder_name": "TressaSilentCard",
+      "mod_id": "TressaSilentCard",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Tressa_Silent_Card_Art_v0.3.1_ba826f94.zip",
+      "bundle_sha256": "ba826f941bf6a04ffedfe59ea1fbbc0c89637921aa35dd62a56871603a7a9437"
+    },
+    {
+      "mod_version_id": "dc5ced38-2bdd-4dd5-9450-3e97fa20f8dc",
+      "name": "Tressa Silent Skin",
+      "version": "v0.9.3-beta",
+      "source": "nexus:slaythespire2/mods/1052",
+      "hash": "fb364b17cf0b5b5ff4bd41727f9ec05fa23d7daea9bd4496ad0ce3a583ac7867",
+      "files": [
+        "TressaSilentSkin\\TressaSilentSkin.dll",
+        "TressaSilentSkin\\TressaSilentSkin.json",
+        "TressaSilentSkin\\TressaSilentSkin.pck"
+      ],
+      "folder_name": "TressaSilentSkin",
+      "mod_id": "TressaSilentSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Tressa_Silent_Skin_v0.9.3-beta_9409d652.zip",
+      "bundle_sha256": "9409d65201d47deffbf12e8e11d31be017bb408b476e29075073429a1fb13a5e"
+    },
+    {
+      "mod_version_id": "99e32eb2-e79d-4659-8dda-0d9447eae0c3",
+      "name": "Watcher",
+      "version": "0.9.24",
+      "source": null,
+      "hash": "0b7922ea2a1406201acfe9a2bf8e13e60cf7264606e57012a2731dd7f789de24",
+      "files": [
+        "Watcher\\Watcher.dll",
+        "Watcher\\Watcher.json",
+        "Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Watcher_v0.9.24_f7f8c479.zip",
+      "bundle_sha256": "f7f8c479b1ac00a59edefd3e8d840bcfee0a92f064317755a8f45494928521ce"
+    }
+  ],
+  "created_at": "2026-09-15T04:22:31.945366Z",
+  "updated_at": "2026-09-15T04:22:32.458619400Z",
+  "public": false
+}
