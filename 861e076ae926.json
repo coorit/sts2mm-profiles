@@ -255,9 +255,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Watcher_v1.5.10_41d215ef.zip",
       "bundle_sha256": "41d215ef13d058f008f551466070939660d1d5659034e5c379548be90f737247"
+    },
+    {
+      "mod_version_id": "d55e2b25-ab22-4af0-8553-9aa529723720",
+      "name": "BaseLib",
+      "version": "v3.4.7",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "55863ca6adc30a61a7544874e157a519ffe148ccf2b18025947609c4bff813ce",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.7_6ceb1f4e.zip",
+      "bundle_sha256": "6ceb1f4eb03a17a890b7bb00bcb4111282370403d6e9046628e50352e06fc2fa"
     }
   ],
   "created_at": "2026-09-15T04:22:31.945366Z",
-  "updated_at": "2026-09-16T00:13:13.120148600Z",
+  "updated_at": "2026-09-16T00:15:50.795629500Z",
   "public": false
 }
