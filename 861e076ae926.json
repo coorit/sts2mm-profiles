@@ -240,24 +240,7 @@
       "bundle_sha256": "6d3767c46e44b11b142c6c4a0f548aeb02c91800e519b756260f9a5e5b20f185"
     },
     {
-      "mod_version_id": "d909abb7-cd72-45f5-b047-bcec0eee9bf8",
-      "name": "Watcher",
-      "version": "1.5.10",
-      "source": "github:lamali292/WatcherMod",
-      "hash": "3f36d2986cb38430d892809e89088ffd29302b2828b17b670fbacdaf9870b67d",
-      "files": [
-        "Watcher\\Watcher.dll",
-        "Watcher\\Watcher.json",
-        "Watcher\\Watcher.pck"
-      ],
-      "folder_name": "Watcher",
-      "mod_id": "Watcher",
-      "enabled": true,
-      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Watcher_v1.5.10_41d215ef.zip",
-      "bundle_sha256": "41d215ef13d058f008f551466070939660d1d5659034e5c379548be90f737247"
-    },
-    {
-      "mod_version_id": "d55e2b25-ab22-4af0-8553-9aa529723720",
+      "mod_version_id": "7b63582d-bb13-466b-b34c-13fe456e5aff",
       "name": "BaseLib",
       "version": "v3.4.7",
       "source": "github:Alchyr/BaseLib-StS2",
@@ -272,9 +255,43 @@
       "enabled": true,
       "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.7_6ceb1f4e.zip",
       "bundle_sha256": "6ceb1f4eb03a17a890b7bb00bcb4111282370403d6e9046628e50352e06fc2fa"
+    },
+    {
+      "mod_version_id": "da92a3e7-b7a3-4074-846c-f73ca3f458df",
+      "name": "Meirin Watcher Skin",
+      "version": "v0.2.3-beta",
+      "source": null,
+      "hash": "18a008aeacbf8a3e985e789cda8630eb4821620470de456e61257f0ccbb6ef7f",
+      "files": [
+        "MeirinWatcherSkin\\MeirinWatcherSkin.dll",
+        "MeirinWatcherSkin\\MeirinWatcherSkin.json",
+        "MeirinWatcherSkin\\MeirinWatcherSkin.pck"
+      ],
+      "folder_name": "MeirinWatcherSkin",
+      "mod_id": "MeirinWatcherSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Meirin_Watcher_Skin_v0.2.3-beta_2948992f.zip",
+      "bundle_sha256": "2948992f91fd6261b8dafb60c04baf742f0588d170f4b64d13b24a94803e8770"
+    },
+    {
+      "mod_version_id": "7e159e63-f38c-4199-b066-f88243b7f82f",
+      "name": "Watcher",
+      "version": "1.5.10",
+      "source": "github:lamali292/WatcherMod",
+      "hash": "3f36d2986cb38430d892809e89088ffd29302b2828b17b670fbacdaf9870b67d",
+      "files": [
+        "Watcher\\Watcher.dll",
+        "Watcher\\Watcher.json",
+        "Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Watcher_v1.5.10_41d215ef.zip",
+      "bundle_sha256": "41d215ef13d058f008f551466070939660d1d5659034e5c379548be90f737247"
     }
   ],
   "created_at": "2026-09-15T04:22:31.945366Z",
-  "updated_at": "2026-09-16T00:15:50.795629500Z",
+  "updated_at": "2026-09-16T00:18:03.248871800Z",
   "public": false
 }
