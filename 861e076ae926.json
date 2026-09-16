@@ -121,23 +121,6 @@
       "bundle_sha256": "f30de1e489c45165b19db067a1884a38a7353cc4706a9e6329b5d18fc1c9d745"
     },
     {
-      "mod_version_id": "da92a3e7-b7a3-4074-846c-f73ca3f458df",
-      "name": "Meirin Watcher Skin",
-      "version": "v0.2.3-beta",
-      "source": null,
-      "hash": "18a008aeacbf8a3e985e789cda8630eb4821620470de456e61257f0ccbb6ef7f",
-      "files": [
-        "MeirinWatcherSkin\\MeirinWatcherSkin.dll",
-        "MeirinWatcherSkin\\MeirinWatcherSkin.json",
-        "MeirinWatcherSkin\\MeirinWatcherSkin.pck"
-      ],
-      "folder_name": "MeirinWatcherSkin",
-      "mod_id": "MeirinWatcherSkin",
-      "enabled": true,
-      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Meirin_Watcher_Skin_v0.2.3-beta_2948992f.zip",
-      "bundle_sha256": "2948992f91fd6261b8dafb60c04baf742f0588d170f4b64d13b24a94803e8770"
-    },
-    {
       "mod_version_id": "88ac6dd7-504a-49aa-a0d4-f26b60cd2a4b",
       "name": "Narja Necrobinder Card Art",
       "version": "v0.1.1-beta",
@@ -271,26 +254,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Relic_Picker_v0.1.0_d0769265.zip",
       "bundle_sha256": "d0769265b58871fec429b702574403e2f179ac8bcd0df39a94ab949fcb6b1e75"
-    },
-    {
-      "mod_version_id": "e9ff31b4-3bbd-46e0-b683-c0b2ad4d693c",
-      "name": "Watcher",
-      "version": "0.9.24",
-      "source": "nexus:slaythespire2/mods/46",
-      "hash": "0b7922ea2a1406201acfe9a2bf8e13e60cf7264606e57012a2731dd7f789de24",
-      "files": [
-        "Watcher\\Watcher.dll",
-        "Watcher\\Watcher.json",
-        "Watcher\\Watcher.pck"
-      ],
-      "folder_name": "Watcher",
-      "mod_id": "Watcher",
-      "enabled": true,
-      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Watcher_v0.9.24_f7f8c479.zip",
-      "bundle_sha256": "f7f8c479b1ac00a59edefd3e8d840bcfee0a92f064317755a8f45494928521ce"
     }
   ],
   "created_at": "2026-09-15T04:22:31.945366Z",
-  "updated_at": "2026-09-15T23:02:06.698678Z",
+  "updated_at": "2026-09-16T00:05:06.816293600Z",
   "public": false
 }
