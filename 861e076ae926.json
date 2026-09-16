@@ -240,23 +240,24 @@
       "bundle_sha256": "6d3767c46e44b11b142c6c4a0f548aeb02c91800e519b756260f9a5e5b20f185"
     },
     {
-      "mod_version_id": "2170da3f-f8d2-4464-a523-f8e9561ff56a",
-      "name": "Relic Picker",
-      "version": "v0.1.0",
-      "source": null,
-      "hash": "03a8b6075ac5322468db614f09c5b57cda669d6bea78aaf45f1659035311d13a",
+      "mod_version_id": "d909abb7-cd72-45f5-b047-bcec0eee9bf8",
+      "name": "Watcher",
+      "version": "1.5.10",
+      "source": "github:lamali292/WatcherMod",
+      "hash": "3f36d2986cb38430d892809e89088ffd29302b2828b17b670fbacdaf9870b67d",
       "files": [
-        "RelicPicker\\RelicPicker.dll",
-        "RelicPicker\\RelicPicker.json"
+        "Watcher\\Watcher.dll",
+        "Watcher\\Watcher.json",
+        "Watcher\\Watcher.pck"
       ],
-      "folder_name": "RelicPicker",
-      "mod_id": "RelicPicker",
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
       "enabled": true,
-      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Relic_Picker_v0.1.0_d0769265.zip",
-      "bundle_sha256": "d0769265b58871fec429b702574403e2f179ac8bcd0df39a94ab949fcb6b1e75"
+      "bundle_url": "https://github.com/coorit/sts2mm-profiles/releases/download/bundles/Watcher_v1.5.10_41d215ef.zip",
+      "bundle_sha256": "41d215ef13d058f008f551466070939660d1d5659034e5c379548be90f737247"
     }
   ],
   "created_at": "2026-09-15T04:22:31.945366Z",
-  "updated_at": "2026-09-16T00:06:20.006462100Z",
+  "updated_at": "2026-09-16T00:13:13.120148600Z",
   "public": false
 }
